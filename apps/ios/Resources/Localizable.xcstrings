@@ -9385,6 +9385,142 @@
         }
       }
     },
+    "Add Group": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add Group"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Add Group"
+          }
+        }
+      }
+    },
     "Add Header": {
       "localizations": {
         "en": {
@@ -23393,6 +23529,142 @@
         }
       }
     },
+    "Base ref (optional)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Base ref (optional)"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Base ref (optional)"
+          }
+        }
+      }
+    },
     "Blocked": {
       "localizations": {
         "en": {
@@ -23661,6 +23933,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tavla"
+          }
+        }
+      }
+    },
+    "Branch": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Branch"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Branch"
           }
         }
       }
@@ -43793,6 +44201,142 @@
         }
       }
     },
+    "Copy session key": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy session key"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Copy session key"
+          }
+        }
+      }
+    },
     "Copy setup code command": {
       "localizations": {
         "en": {
@@ -47737,6 +48281,142 @@
         }
       }
     },
+    "Create Group": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create Group"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create Group"
+          }
+        }
+      }
+    },
     "Create a card or change the filter.": {
       "localizations": {
         "en": {
@@ -47869,6 +48549,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Skapa ett kort eller ändra filtret."
+          }
+        }
+      }
+    },
+    "Create in a worktree": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create in a worktree"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Create in a worktree"
           }
         }
       }
@@ -51545,6 +52361,142 @@
         }
       }
     },
+    "Delete Sessions": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete Sessions"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete Sessions"
+          }
+        }
+      }
+    },
     "Delete Session…": {
       "localizations": {
         "en": {
@@ -51813,6 +52765,278 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ta bort efter lyckad körning"
+          }
+        }
+      }
+    },
+    "Delete group?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete group?"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete group?"
+          }
+        }
+      }
+    },
+    "Delete selected sessions?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Delete selected sessions?"
           }
         }
       }
@@ -59293,6 +60517,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Drömning inte tillgänglig"
+          }
+        }
+      }
+    },
+    "Each selected session and its transcript will be removed from the gateway.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Each selected session and its transcript will be removed from the gateway."
           }
         }
       }
@@ -70585,6 +71945,278 @@
         }
       }
     },
+    "Gateway changed before the session operation started.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed before the session operation started."
+          }
+        }
+      }
+    },
+    "Gateway changed. Close and reopen Groups to continue.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Gateway changed. Close and reopen Groups to continue."
+          }
+        }
+      }
+    },
     "Gateway command": {
       "localizations": {
         "en": {
@@ -73441,6 +75073,142 @@
         }
       }
     },
+    "Get Info…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Get Info…"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Get Info…"
+          }
+        }
+      }
+    },
     "Get key": {
       "localizations": {
         "en": {
@@ -74257,6 +76025,142 @@
         }
       }
     },
+    "Group": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Group"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Group"
+          }
+        }
+      }
+    },
     "Group name": {
       "localizations": {
         "en": {
@@ -74389,6 +76293,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Gruppnamn"
+          }
+        }
+      }
+    },
+    "Groups": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Groups"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Groups"
           }
         }
       }
@@ -76841,6 +78881,142 @@
         }
       }
     },
+    "ID": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "ID"
+          }
+        }
+      }
+    },
     "INSERT INTO cached_transcripts(gateway_id, session_key, agent_id, payload, updated_at)\nSELECT gateway_id, session_key, '', payload, updated_at\nFROM cached_transcripts_pre_v3\nWHERE lower(trim(session_key)) GLOB 'agent:*:*'": {
       "localizations": {
         "en": {
@@ -77381,6 +79557,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "ISO-datum och -tid"
+          }
+        }
+      }
+    },
+    "Identity": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Identity"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Identity"
           }
         }
       }
@@ -81873,6 +84185,142 @@
         }
       }
     },
+    "Kind": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kind"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Kind"
+          }
+        }
+      }
+    },
     "LAN or Tailscale host": {
       "localizations": {
         "en": {
@@ -82277,6 +84725,278 @@
           "stringUnit": {
             "state": "translated",
             "value": "Senaste röstproblem"
+          }
+        }
+      }
+    },
+    "Last activity": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Last activity"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last activity"
+          }
+        }
+      }
+    },
+    "Last interaction": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Last interaction"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Last interaction"
           }
         }
       }
@@ -90441,6 +93161,142 @@
         }
       }
     },
+    "Manage session groups": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manage session groups"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Manage session groups"
+          }
+        }
+      }
+    },
     "Managed cron is installed.": {
       "localizations": {
         "en": {
@@ -96425,6 +99281,278 @@
         }
       }
     },
+    "New Session Options": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New Session Options"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options"
+          }
+        }
+      }
+    },
+    "New Session Options…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New Session Options…"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New Session Options…"
+          }
+        }
+      }
+    },
     "New proposals will appear here when agents draft skills.": {
       "localizations": {
         "en": {
@@ -96693,6 +99821,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ny session"
+          }
+        }
+      }
+    },
+    "New session options": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New session options"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "New session options"
           }
         }
       }
@@ -100773,6 +104037,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Inga gateways hittades ännu. Använd manuell konfiguration om Bonjour är blockerat."
+          }
+        }
+      }
+    },
+    "No groups": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No groups"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "No groups"
           }
         }
       }
@@ -105397,6 +108797,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nod"
+          }
+        }
+      }
+    },
+    "None": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "None"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "None"
           }
         }
       }
@@ -113965,6 +117501,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Valfri kontext"
+          }
+        }
+      }
+    },
+    "Organization": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Organization"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Organization"
           }
         }
       }
@@ -130017,6 +133689,142 @@
         }
       }
     },
+    "Remove attachments or wait for delivery before archiving or deleting this session.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Remove attachments or wait for delivery before archiving or deleting this session."
+          }
+        }
+      }
+    },
     "Remove attachments or wait for delivery to resolve before starting a new chat.": {
       "localizations": {
         "en": {
@@ -131373,6 +135181,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Svara"
+          }
+        }
+      }
+    },
+    "Repository root": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Repository root"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Repository root"
           }
         }
       }
@@ -134501,6 +138445,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Försök igen en gång"
+          }
+        }
+      }
+    },
+    "Retry session groups": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retry session groups"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Retry session groups"
           }
         }
       }
@@ -138041,6 +142121,278 @@
         }
       }
     },
+    "Run duration": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Run duration"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run duration"
+          }
+        }
+      }
+    },
+    "Run ended": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Run ended"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run ended"
+          }
+        }
+      }
+    },
     "Run failed": {
       "localizations": {
         "en": {
@@ -138853,6 +143205,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Körningen hoppades över"
+          }
+        }
+      }
+    },
+    "Run started": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Run started"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Run started"
           }
         }
       }
@@ -145521,6 +150009,142 @@
         }
       }
     },
+    "Select": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Select"
+          }
+        }
+      }
+    },
     "Select refresh to load the proposal body.": {
       "localizations": {
         "en": {
@@ -147833,6 +152457,278 @@
         }
       }
     },
+    "Session Groups": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Session Groups"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Groups"
+          }
+        }
+      }
+    },
+    "Session Info": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Session Info"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Session Info"
+          }
+        }
+      }
+    },
     "Session actions": {
       "localizations": {
         "en": {
@@ -149053,6 +153949,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sessioner"
+          }
+        }
+      }
+    },
+    "Sessions in this group become ungrouped.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Sessions in this group become ungrouped."
           }
         }
       }
@@ -168505,6 +173537,142 @@
         }
       }
     },
+    "The main session cannot be deleted.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "The main session cannot be deleted."
+          }
+        }
+      }
+    },
     "The saved TLS certificate pin for %@ no longer matches the gateway certificate. The new certificate is trusted by this device; this is commonly caused by certificate rotation.": {
       "localizations": {
         "en": {
@@ -172445,6 +177613,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Den här körningen spåras tills dess exakta resultat visas."
+          }
+        }
+      }
+    },
+    "This session cannot be archived while it is active or running.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This session cannot be archived while it is active or running."
           }
         }
       }
@@ -176661,6 +181965,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Uppdatera Gateway för att söka efter och installera färdigheter från ClawHub via iOS."
+          }
+        }
+      }
+    },
+    "Updated": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Updated"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Updated"
           }
         }
       }
@@ -185229,6 +190669,142 @@
           "stringUnit": {
             "state": "translated",
             "value": "Arbetsytefärdighet"
+          }
+        }
+      }
+    },
+    "Worktree": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Worktree"
+          }
+        },
+        "zh-CN": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "zh-TW": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "ja-JP": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Worktree"
           }
         }
       }
