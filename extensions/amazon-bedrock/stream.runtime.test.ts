@@ -651,7 +651,7 @@ it.each([
   },
 );
 
-it("lifts tool images into user content for non-Nova/Claude routes while preserving result associations", async () => {
+it("nests tool images only for Nova and Claude, lifting them elsewhere with associations", async () => {
   const image = { type: "image" as const, mimeType: "image/png", data: png };
   const context = {
     messages: [
@@ -668,43 +668,32 @@ it("lifts tool images into user content for non-Nova/Claude routes while preserv
   const placeholder = (toolCallId: string) => ({
     text: `(see attached images labeled "Images from tool result ${toolCallId}")`,
   });
-  for (const id of [
-    "us.openai.gpt-5.6-sol",
-    "global.openai.gpt-6.1-sol",
-    "global.moonshotai.kimi-k3",
-    "arn:aws:bedrock:us-east-1:000000000000:application-inference-profile/opaque",
-  ]) {
-    const input = await capturePayload(
-      bedrockModel({ id, name: "Opaque", input: ["text", "image"] }),
-      context,
-    );
-    expect(input.messages).toEqual([
-      wireUser(
-        wireToolResult("call_first", [{ text: "first result" }, placeholder("call_first")]),
-        wireToolResult("call_second", [placeholder("call_second")], "error"),
-        wireToolResult("call_text", [{ text: "plain result" }]),
-        { text: "Images from tool result call_first:" },
-        expectedImage,
-        expectedImage,
-        { text: "Images from tool result call_second:" },
-        expectedImage,
-      ),
-    ]);
-  }
-  expect(context).toEqual(before);
-
   const nested = [
     wireToolResult("call_first", [{ text: "first result" }, expectedImage, expectedImage]),
     wireToolResult("call_second", [expectedImage], "error"),
     wireToolResult("call_text", [{ text: "plain result" }]),
   ];
-  const nova = await capturePayload(bedrockModel({ input: ["text", "image"] }), context);
-  expect(nova.messages).toEqual([wireUser(...nested)]);
-  const claude = await capturePayload(
-    bedrockModel({ id: "global.anthropic.claude-sonnet-5-5", input: ["text", "image"] }),
-    context,
-  );
-  expect(claude.messages).toEqual([wireUser(...nested, checkpoint)]);
+  const lifted = [
+    wireToolResult("call_first", [{ text: "first result" }, placeholder("call_first")]),
+    wireToolResult("call_second", [placeholder("call_second")], "error"),
+    wireToolResult("call_text", [{ text: "plain result" }]),
+    { text: "Images from tool result call_first:" },
+    expectedImage,
+    expectedImage,
+    { text: "Images from tool result call_second:" },
+    expectedImage,
+  ];
+  for (const [id, content] of Object.entries({
+    "global.openai.gpt-6.1-sol": lifted,
+    "global.moonshotai.kimi-k3": lifted,
+    "arn:aws:bedrock:us-east-1:000000000000:application-inference-profile/opaque": lifted,
+    "amazon.nova-micro-v1:0": nested,
+    "global.anthropic.claude-sonnet-5-5": [...nested, checkpoint],
+  })) {
+    const input = await capturePayload(bedrockModel({ id, input: ["text", "image"] }), context);
+    expect(input.messages, id).toEqual([wireUser(...content)]);
+  }
+  expect(context).toEqual(before);
 });
 
 function bedrockEvent(type: string, payload: unknown): Buffer {
